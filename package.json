@@ -3,6 +3,7 @@
 	"author": "user",
 	"drescription": "Managing Packages with NPM Course",
 	"keywords": [ "freecodecamp", "packages", "NPM"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
